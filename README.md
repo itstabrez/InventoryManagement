@@ -27,7 +27,7 @@ This is a responsive inventory management application built using **React 19**, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/retail-dashboard.git
+git clone https://github.com/itstabrez/InventoryManagement.git
 cd inventorymanagement
 npm install
 npm run dev
